@@ -1,2 +1,2 @@
 # vinirepos
-Repositório para estudos iniciais de programação
+Repositório para desenvolvimento de projetos 
